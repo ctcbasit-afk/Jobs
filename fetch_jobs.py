@@ -4,7 +4,7 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
       "Accept-Language": "en-US,en;q=0.9"}
 QUERIES = ["Project Manager", "HR Manager", "Operations Manager", "Programme Manager", "Head of HR", "Admin Manager"]
 KEEP = re.compile(r"project|programme|program manager|operations|\bhr\b|human resource|people (&|and) culture|admin|head of|director|coordinator|payroll|employee relations", re.I)
-DROP = re.compile(r"intern\b|internship|trainee|driver|sales|marketing|developer|designer|fresh|receptionist|teacher|nurse", re.I)
+DROP = re.compile(r"intern\b|internship|trainee|driver|sales|marketing|developer|designer|fresh|receptionist|teacher|nurse|engineer|engineering|retail|shop|software|\bIT\b|graphic|civil|mechanical|electrical|architect|accountant|accounts?\b|finance", re.I)
 TODAY = datetime.date.today().isoformat()
 
 def get(url):
@@ -49,15 +49,19 @@ def unjobs():
     return out
 
 def score(j):
-    s = 0
     t = j["title"].lower()
     blob = (j["title"] + " " + j["company"]).lower()
-    if re.search(r"manager|head|director|lead|specialist", t): s += 40
-    if re.search(r"project|programme|program|operations|\bhr\b|human resource|people", t): s += 25
-    if re.search(r"energy|petrol|oil|gas|refin|pso|shell|wafi|parco|ogdcl|ppl|attock|fuel", blob): s += 15
-    if re.search(r"\bun\b|who|unicef|unops|undp|united nations", blob): s += 15
-    if re.search(r"assistant|officer|executive|associate|junior", t): s -= 30
+    s = 0
+    if re.search(r"\bhr\b|human resource|people (&|and) culture|payroll|employee relations|project\b.{0,20}manag|programme\b.{0,12}manag|program\b.{0,12}manag|operations manag|admin(istration)? manag|head of|director|country manager|coordinator", t): s += 45
+    if re.search(r"\bmanager\b|\bhead\b|director|\blead\b|specialist", t): s += 15
+    if re.search(r"\bun\b|who\b|unicef|unops|undp|unhcr|wfp|united nations|usaid|ngo|foundation|save the children|irc|world bank", blob): s += 20
+    if re.search(r"energy|petrol|oil|gas|refin|pso|shell|wafi|parco|ogdcl|ppl|attock|fuel|power|hascol|cnergyico", blob): s += 20
+    if re.search(r"assistant|officer|executive|associate|junior|clerk", t): s -= 30
+    if re.search(r"solar|\bpv\b|technical|plant|site", t): s -= 20
     return max(0, min(100, s))
+
+def label(sc):
+    return "Best fit" if sc >= 75 else "Good fit" if sc >= 55 else "Check"
 
 def main():
     try:
@@ -82,11 +86,18 @@ def main():
         if j["url"] in known:
             continue
         j["first_seen"] = TODAY
-        j["score"] = score(j)
-        j["fit"] = "Best fit" if j["score"] >= 70 else "Good fit" if j["score"] >= 50 else "Check"
         known[j["url"]] = j
     cutoff = (datetime.date.today() - datetime.timedelta(days=21)).isoformat()
-    jobs = [j for j in known.values() if j.get("first_seen", TODAY) >= cutoff]
+    jobs = []
+    for j in known.values():
+        if j.get("first_seen", TODAY) < cutoff:
+            continue
+        if DROP.search(j["title"]) or not KEEP.search(j["title"]):
+            continue
+        j["score"] = score(j)
+        j["fit"] = label(j["score"])
+        if j["score"] >= 40:
+            jobs.append(j)
     jobs.sort(key=lambda j: (j.get("score", 0), j.get("date", "")), reverse=True)
     out = {"updated": datetime.datetime.utcnow().isoformat(timespec="minutes") + "Z", "status": status, "jobs": jobs}
     json.dump(out, open("jobs.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
