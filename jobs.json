@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-13T12:40Z",
+ "updated": "2026-11-13T12:43Z",
  "status": {
-  "LinkedIn:Project Manager": 10,
   "LinkedIn:HR Manager": 10,
+  "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
@@ -12,10 +12,16 @@
   "LinkedIn:Programme Officer": 10,
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "Rozee:Project Manager": "error: HTTP Error 403: Forbidden",
-  "Rozee:HR Manager": "error: HTTP Error 403: Forbidden",
-  "Rozee:Operations Manager": "error: HTTP Error 403: Forbidden",
-  "UNjobs": "error: HTTP Error 403: Forbidden"
+  "LinkedIn:UNICEF Pakistan": 10,
+  "LinkedIn:UNOPS Pakistan": 10,
+  "LinkedIn:WHO Pakistan": 10,
+  "LinkedIn:UNDP Pakistan": 10,
+  "LinkedIn:Shell Pakistan": 10,
+  "LinkedIn:Wafi Energy": 10,
+  "LinkedIn:Pakistan State Oil": 10,
+  "LinkedIn:OGDCL": 10,
+  "LinkedIn:Attock": 10,
+  "LinkedIn:PARCO": 10
  },
  "jobs": [
   {
@@ -47,6 +53,17 @@
    "url": "https://pk.linkedin.com/jobs/view/planning-monitoring-evaluation-reporting-specialist-at-united-nations-volunteers-asia-the-pacific-4489525881",
    "source": "LinkedIn",
    "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 80,
+   "fit": "Best fit"
+  },
+  {
+   "title": "Head of Volunteer Engagement and Strategy",
+   "company": "The Citizens Foundation",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-volunteer-engagement-and-strategy-at-the-citizens-foundation-4490090459",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 80,
    "fit": "Best fit"
@@ -100,6 +117,28 @@
    "company": "Alpha School",
    "location": "Islamabad, Islāmābād, Pakistan",
    "url": "https://pk.linkedin.com/jobs/view/director-program-management-2-hour-learning-remote-%24200-000-year-usd-at-alpha-school-4488646945",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Director of Procurement",
+   "company": "Riphah International University",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-of-procurement-at-riphah-international-university-4488902563",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Head of Channel Partnerships",
+   "company": "JazzWorld",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-channel-partnerships-at-jazzworld-4490579485",
    "source": "LinkedIn",
    "date": "2026-11-13",
    "first_seen": "2026-11-13",
@@ -228,6 +267,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Director HSE & Sustainability",
+   "company": "PTCL.Official",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-hse-sustainability-at-ptcl-official-4489943918",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Project Manager",
    "company": "ASA Microfinance Bank (Pakistan) Limited",
    "location": "Karachi Division, Sindh, Pakistan",
@@ -287,6 +337,17 @@
    "company": "GOLDLION",
    "location": "Islamabad, Islāmābād, Pakistan",
    "url": "https://pk.linkedin.com/jobs/view/human-resources-manager-at-goldlion-4477522144",
+   "source": "LinkedIn",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Country Director Pakistan - Islamabad, Pakistan",
+   "company": "Prosper Global",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/country-director-pakistan-islamabad-pakistan-at-prosper-global-4488842920",
    "source": "LinkedIn",
    "date": "2026-11-09",
    "first_seen": "2026-11-13",
@@ -368,105 +429,6 @@
    "date": "2026-11-08",
    "first_seen": "2026-11-13",
    "score": 50,
-   "fit": "Check"
-  },
-  {
-   "title": "Amazon Seller Operations - MTO",
-   "company": "HR Ways - Hiring Tech Talent",
-   "location": "Karachi Division, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/amazon-seller-operations-mto-at-hr-ways-hiring-tech-talent-4489540569",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 45,
-   "fit": "Check"
-  },
-  {
-   "title": "HR Generalist",
-   "company": "ibex",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-ibex-4478988561",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 45,
-   "fit": "Check"
-  },
-  {
-   "title": "HR Generalist",
-   "company": "ibex. Pakistan",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-ibex-pakistan-4480793613",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 45,
-   "fit": "Check"
-  },
-  {
-   "title": "Operations",
-   "company": "DSV - Global Transport and Logistics",
-   "location": "Karāchi, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/operations-at-dsv-global-transport-and-logistics-4488676946",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 45,
-   "fit": "Check"
-  },
-  {
-   "title": "HR Generalist",
-   "company": "Cloudelligent",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-cloudelligent-4486671034",
-   "source": "LinkedIn",
-   "date": "2026-11-07",
-   "first_seen": "2026-11-13",
-   "score": 45,
-   "fit": "Check"
-  },
-  {
-   "title": "Technical Program Manager",
-   "company": "Pixalate",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/technical-program-manager-at-pixalate-4456392009",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 40,
-   "fit": "Check"
-  },
-  {
-   "title": "Senior Technical Project Manager",
-   "company": "vFairs",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/senior-technical-project-manager-at-vfairs-4490328591",
-   "source": "LinkedIn",
-   "date": "2026-11-12",
-   "first_seen": "2026-11-13",
-   "score": 40,
-   "fit": "Check"
-  },
-  {
-   "title": "Technical Project Manager",
-   "company": "AI Case Leads",
-   "location": "Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/technical-project-manager-at-ai-case-leads-4489978484",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 40,
-   "fit": "Check"
-  },
-  {
-   "title": "CONSTRUCTION SITE ADMINISTRATION MANAGER",
-   "company": "Takmeel Square",
-   "location": "Bahawalpur, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/construction-site-administration-manager-at-takmeel-square-4486699844",
-   "source": "LinkedIn",
-   "date": "2026-11-08",
-   "first_seen": "2026-11-13",
-   "score": 40,
    "fit": "Check"
   }
  ]
