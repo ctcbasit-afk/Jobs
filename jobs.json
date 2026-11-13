@@ -1,16 +1,21 @@
 {
- "updated": "2026-11-13T12:20Z",
+ "updated": "2026-11-13T12:40Z",
  "status": {
   "LinkedIn:Project Manager": 10,
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
-  "LinkedIn:Admin Manager": 10,
+  "LinkedIn:HR Officer": 10,
+  "LinkedIn:Admin Officer": 10,
+  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Programme Officer": 10,
+  "LinkedIn:Operations Officer": 10,
+  "LinkedIn:HR Associate": 10,
   "Rozee:Project Manager": "error: HTTP Error 403: Forbidden",
   "Rozee:HR Manager": "error: HTTP Error 403: Forbidden",
   "Rozee:Operations Manager": "error: HTTP Error 403: Forbidden",
-  "UNjobs": 0
+  "UNjobs": "error: HTTP Error 403: Forbidden"
  },
  "jobs": [
   {
@@ -36,6 +41,17 @@
    "fit": "Best fit"
   },
   {
+   "title": "Planning, Monitoring, Evaluation & Reporting Specialist",
+   "company": "United Nations Volunteers - Asia & the Pacific",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/planning-monitoring-evaluation-reporting-specialist-at-united-nations-volunteers-asia-the-pacific-4489525881",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 80,
+   "fit": "Best fit"
+  },
+  {
    "title": "Project Manager (Transactional HR Services)",
    "company": "UNOPS",
    "location": "Islamabad",
@@ -45,6 +61,17 @@
    "first_seen": "2026-11-13",
    "score": 80,
    "fit": "Best fit"
+  },
+  {
+   "title": "Project Management Support Assistant - HTMS",
+   "company": "UNOPS",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-management-support-assistant-htms-at-unops-4488508263",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-13",
+   "score": 65,
+   "fit": "Good fit"
   },
   {
    "title": "Project Manager, Solar PV / Energy Storage",
@@ -113,6 +140,39 @@
    "fit": "Good fit"
   },
   {
+   "title": "Facility Lead-Logistics",
+   "company": "Daraz",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/facility-lead-logistics-at-daraz-4471914737",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Amazon Seller Operations Manager - TJ / 1954001",
+   "company": "Recruit AI",
+   "location": "Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/amazon-seller-operations-manager-tj-1954001-at-recruit-ai-4490365832",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Specialist (DHA 2)",
+   "company": "HRBS Global",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-specialist-dha-2-at-hrbs-global-4489080691",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Operations Manager",
    "company": "SPERTON - Where Great People Meet",
    "location": "Karachi Division, Sindh, Pakistan",
@@ -128,6 +188,39 @@
    "company": "Motive",
    "location": "Pakistan",
    "url": "https://pk.linkedin.com/jobs/view/senior-enablement-operations-manager-at-motive-4470890635",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Lead",
+   "company": "ACE Money Transfer",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-lead-at-ace-money-transfer-4489961833",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Setup & Infrastructure Manager-Logistics",
+   "company": "Daraz",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/setup-infrastructure-manager-logistics-at-daraz-4460252617",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Specialist",
+   "company": "Zoomlion",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-specialist-at-zoomlion-4489923208",
    "source": "LinkedIn",
    "date": "2026-11-11",
    "first_seen": "2026-11-13",
@@ -179,6 +272,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Authorization Program Specialist",
+   "company": "Activekey Solutions",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/authorization-program-specialist-at-activekey-solutions-4489468305",
+   "source": "LinkedIn",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-13",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Human Resources Manager",
    "company": "GOLDLION",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -210,6 +314,116 @@
    "first_seen": "2026-11-13",
    "score": 60,
    "fit": "Good fit"
+  },
+  {
+   "title": "Assistant Manager Human Resources",
+   "company": "Rafah-e-Aam Medical Centre",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-human-resources-at-rafah-e-aam-medical-centre-4469726260",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 50,
+   "fit": "Check"
+  },
+  {
+   "title": "Senior Manager / Assistant General Manager – Market Operations",
+   "company": "Pakistan Stock Exchange - PSX",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-manager-assistant-general-manager-%E2%80%93-market-operations-at-pakistan-stock-exchange-psx-4488296127",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 50,
+   "fit": "Check"
+  },
+  {
+   "title": "Assistant Manager Payroll & HR Ops",
+   "company": "Zameen.com",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-payroll-hr-ops-at-zameen-com-4487898038",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 50,
+   "fit": "Check"
+  },
+  {
+   "title": "Assistant Manager Swift Operations",
+   "company": "UBL - United Bank Limited",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-swift-operations-at-ubl-united-bank-limited-4489437640",
+   "source": "LinkedIn",
+   "date": "2026-11-10",
+   "first_seen": "2026-11-13",
+   "score": 50,
+   "fit": "Check"
+  },
+  {
+   "title": "Assistant Manager Administration",
+   "company": "DP World",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-administration-at-dp-world-4486677608",
+   "source": "LinkedIn",
+   "date": "2026-11-08",
+   "first_seen": "2026-11-13",
+   "score": 50,
+   "fit": "Check"
+  },
+  {
+   "title": "Amazon Seller Operations - MTO",
+   "company": "HR Ways - Hiring Tech Talent",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/amazon-seller-operations-mto-at-hr-ways-hiring-tech-talent-4489540569",
+   "source": "LinkedIn",
+   "date": "2026-11-13",
+   "first_seen": "2026-11-13",
+   "score": 45,
+   "fit": "Check"
+  },
+  {
+   "title": "HR Generalist",
+   "company": "ibex",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-ibex-4478988561",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 45,
+   "fit": "Check"
+  },
+  {
+   "title": "HR Generalist",
+   "company": "ibex. Pakistan",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-ibex-pakistan-4480793613",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 45,
+   "fit": "Check"
+  },
+  {
+   "title": "Operations",
+   "company": "DSV - Global Transport and Logistics",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/operations-at-dsv-global-transport-and-logistics-4488676946",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 45,
+   "fit": "Check"
+  },
+  {
+   "title": "HR Generalist",
+   "company": "Cloudelligent",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-generalist-at-cloudelligent-4486671034",
+   "source": "LinkedIn",
+   "date": "2026-11-07",
+   "first_seen": "2026-11-13",
+   "score": 45,
+   "fit": "Check"
   },
   {
    "title": "Technical Program Manager",
