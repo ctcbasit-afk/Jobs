@@ -2,9 +2,9 @@ import time, json, re, html, urllib.request, urllib.parse, datetime, os
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "en-US,en;q=0.9"}
-QUERIES = ["Project Manager", "HR Manager", "Operations Manager", "Programme Manager", "Head of HR", "HR Officer", "Admin Officer", "Project Coordinator", "Programme Officer", "Operations Officer", "HR Associate"]
+QUERIES = ["HR Manager","Project Manager","Operations Manager","Programme Manager","Head of HR","HR Officer","Admin Officer","Project Coordinator","Programme Officer","Operations Officer","HR Associate","UNICEF Pakistan","UNOPS Pakistan","WHO Pakistan","UNDP Pakistan","Shell Pakistan","Wafi Energy","Pakistan State Oil","OGDCL","Attock","PARCO"]
 KEEP = re.compile(r"project|programme|program\b|operations|\bhr\b|human resource|people (&|and) culture|admin|head of|director|coordinator|payroll|employee relations|compliance|monitoring|\bmis\b|logistics|officer|associate|executive|assistant|analyst", re.I)
-DROP = re.compile(r"intern\b|internship|trainee|driver|sales|marketing|developer|designer|fresh|receptionist|teacher|nurse|engineer|engineering|retail|shop|software|\bIT\b|graphic|civil|mechanical|electrical|architect|accountant|accounts?\b|finance", re.I)
+DROP = re.compile(r"intern\b|internship|trainee|driver|sales|marketing|developer|designer|fresh|receptionist|teacher|nurse|engineer|engineering|technical|retail|shop|software|\bIT\b|graphic|civil|mechanical|electrical|architect|accountant|accounts?\b|finance", re.I)
 TODAY = datetime.date.today().isoformat()
 
 def get(url):
@@ -78,8 +78,7 @@ def main():
     known = {j["url"]: j for j in old.get("jobs", [])}
     status = {}
     fresh = []
-    tasks = [("LinkedIn:" + q, lambda q=q: linkedin(q)) for q in QUERIES] + \
-            [("Rozee:" + q, lambda q=q: rozee(q)) for q in QUERIES[:3]] + [("UNjobs", unjobs)]
+    tasks = [("LinkedIn:" + q, lambda q=q: linkedin(q)) for q in QUERIES]
     for name, fn in tasks:
         time.sleep(1)
         try:
@@ -104,7 +103,7 @@ def main():
             continue
         j["score"] = score(j)
         j["fit"] = label(j["score"])
-        if j["score"] >= 40:
+        if j["score"] >= 50:
             jobs.append(j)
     jobs.sort(key=lambda j: (j.get("score", 0), j.get("date", "")), reverse=True)
     out = {"updated": datetime.datetime.utcnow().isoformat(timespec="minutes") + "Z", "status": status, "jobs": jobs}
