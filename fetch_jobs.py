@@ -1,9 +1,9 @@
-import json, re, html, urllib.request, urllib.parse, datetime, os
+import time, json, re, html, urllib.request, urllib.parse, datetime, os
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36",
       "Accept-Language": "en-US,en;q=0.9"}
-QUERIES = ["Project Manager", "HR Manager", "Operations Manager", "Programme Manager", "Head of HR", "Admin Manager"]
-KEEP = re.compile(r"project|programme|program manager|operations|\bhr\b|human resource|people (&|and) culture|admin|head of|director|coordinator|payroll|employee relations", re.I)
+QUERIES = ["Project Manager", "HR Manager", "Operations Manager", "Programme Manager", "Head of HR", "HR Officer", "Admin Officer", "Project Coordinator", "Programme Officer", "Operations Officer", "HR Associate"]
+KEEP = re.compile(r"project|programme|program\b|operations|\bhr\b|human resource|people (&|and) culture|admin|head of|director|coordinator|payroll|employee relations|compliance|monitoring|\bmis\b|logistics|officer|associate|executive|assistant|analyst", re.I)
 DROP = re.compile(r"intern\b|internship|trainee|driver|sales|marketing|developer|designer|fresh|receptionist|teacher|nurse|engineer|engineering|retail|shop|software|\bIT\b|graphic|civil|mechanical|electrical|architect|accountant|accounts?\b|finance", re.I)
 TODAY = datetime.date.today().isoformat()
 
@@ -52,11 +52,18 @@ def score(j):
     t = j["title"].lower()
     blob = (j["title"] + " " + j["company"]).lower()
     s = 0
-    if re.search(r"\bhr\b|human resource|people (&|and) culture|payroll|employee relations|project\b.{0,20}manag|programme\b.{0,12}manag|program\b.{0,12}manag|operations manag|admin(istration)? manag|head of|director|country manager|coordinator", t): s += 45
-    if re.search(r"\bmanager\b|\bhead\b|director|\blead\b|specialist", t): s += 15
-    if re.search(r"\bun\b|who\b|unicef|unops|undp|unhcr|wfp|united nations|usaid|ngo|foundation|save the children|irc|world bank", blob): s += 20
-    if re.search(r"energy|petrol|oil|gas|refin|pso|shell|wafi|parco|ogdcl|ppl|attock|fuel|power|hascol|cnergyico", blob): s += 20
-    if re.search(r"assistant|officer|executive|associate|junior|clerk", t): s -= 30
+    domain = re.search(r"\bhr\b|human resource|people (&|and) culture|payroll|employee relations|admin|project|programme|program\b|operations|compliance|monitoring|\bmis\b|logistics|coordinator|head of|director|country manager", t)
+    if domain: s += 45
+    senior = re.search(r"\bmanager\b|\bhead\b|director|\blead\b|specialist", t)
+    junior = re.search(r"officer|associate|executive|coordinator|analyst|assistant", t)
+    if senior: s += 15
+    elif junior: s += 10
+    un = re.search(r"\bun\b|who\b|unicef|unops|undp|unhcr|wfp|united nations|usaid|ngo|foundation|save the children|irc|world bank", blob)
+    energy = re.search(r"energy|petrol|oil|gas|refin|pso|shell|wafi|parco|ogdcl|ppl|attock|fuel|power|hascol|cnergyico", blob)
+    if un: s += 20
+    if energy: s += 20
+    if re.search(r"assistant|clerk", t): s -= 10
+    if junior and not senior and not (un or energy): s -= 25
     if re.search(r"solar|\bpv\b|technical|plant|site", t): s -= 20
     return max(0, min(100, s))
 
@@ -74,6 +81,7 @@ def main():
     tasks = [("LinkedIn:" + q, lambda q=q: linkedin(q)) for q in QUERIES] + \
             [("Rozee:" + q, lambda q=q: rozee(q)) for q in QUERIES[:3]] + [("UNjobs", unjobs)]
     for name, fn in tasks:
+        time.sleep(1)
         try:
             r = fn()
             status[name] = len(r)
