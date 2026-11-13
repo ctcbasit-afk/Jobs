@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:04Z",
+ "updated": "2026-11-13T12:20Z",
  "status": {
   "LinkedIn:Project Manager": 10,
   "LinkedIn:HR Manager": 10,
@@ -7,23 +7,12 @@
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
   "LinkedIn:Admin Manager": 10,
-  "Rozee:Project Manager": 0,
-  "Rozee:HR Manager": 0,
-  "Rozee:Operations Manager": 0,
+  "Rozee:Project Manager": "error: HTTP Error 403: Forbidden",
+  "Rozee:HR Manager": "error: HTTP Error 403: Forbidden",
+  "Rozee:Operations Manager": "error: HTTP Error 403: Forbidden",
   "UNjobs": 0
  },
  "jobs": [
-  {
-   "title": "Project Manager (Transactional HR Services)",
-   "company": "UNOPS",
-   "location": "Islamabad",
-   "url": "https://careers.unops.org/careersmarketplace/JobDetail?jobId=3939",
-   "source": "UNOPS",
-   "date": "2026-10-22",
-   "first_seen": "2026-11-13",
-   "score": 95,
-   "fit": "Best fit"
-  },
   {
    "title": "Project Management Support Specialist",
    "company": "UNOPS",
@@ -47,12 +36,12 @@
    "fit": "Best fit"
   },
   {
-   "title": "Engineering Project Manager",
-   "company": "Apple Retail Shop",
-   "location": "Hyderabad, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/engineering-project-manager-at-apple-retail-shop-4489474533",
-   "source": "LinkedIn",
-   "date": "2026-11-10",
+   "title": "Project Manager (Transactional HR Services)",
+   "company": "UNOPS",
+   "location": "Islamabad",
+   "url": "https://careers.unops.org/careersmarketplace/JobDetail?jobId=3939",
+   "source": "UNOPS",
+   "date": "2026-10-22",
    "first_seen": "2026-11-13",
    "score": 80,
    "fit": "Best fit"
@@ -65,18 +54,7 @@
    "source": "Qureos",
    "date": "2026-11-13",
    "first_seen": "2026-11-13",
-   "score": 65,
-   "fit": "Good fit"
-  },
-  {
-   "title": "Technical Program Manager",
-   "company": "Pixalate",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/technical-program-manager-at-pixalate-4456392009",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -87,7 +65,7 @@
    "source": "LinkedIn",
    "date": "2026-11-13",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -98,18 +76,7 @@
    "source": "LinkedIn",
    "date": "2026-11-13",
    "first_seen": "2026-11-13",
-   "score": 65,
-   "fit": "Good fit"
-  },
-  {
-   "title": "Senior Technical Project Manager",
-   "company": "vFairs",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/senior-technical-project-manager-at-vfairs-4490328591",
-   "source": "LinkedIn",
-   "date": "2026-11-12",
-   "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -120,7 +87,7 @@
    "source": "LinkedIn",
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -131,7 +98,7 @@
    "source": "LinkedIn",
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -142,29 +109,7 @@
    "source": "LinkedIn",
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
-   "score": 65,
-   "fit": "Good fit"
-  },
-  {
-   "title": "Project Lead",
-   "company": "ACE Money Transfer",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/project-lead-at-ace-money-transfer-4489961833",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 65,
-   "fit": "Good fit"
-  },
-  {
-   "title": "Technical Project Manager",
-   "company": "AI Case Leads",
-   "location": "Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/technical-project-manager-at-ai-case-leads-4489978484",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -175,7 +120,7 @@
    "source": "LinkedIn",
    "date": "2026-11-11",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -186,7 +131,7 @@
    "source": "LinkedIn",
    "date": "2026-11-11",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -197,7 +142,7 @@
    "source": "LinkedIn",
    "date": "2026-11-10",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -208,7 +153,7 @@
    "source": "LinkedIn",
    "date": "2026-11-10",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -219,7 +164,7 @@
    "source": "LinkedIn",
    "date": "2026-11-10",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -230,7 +175,7 @@
    "source": "LinkedIn",
    "date": "2026-11-10",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -241,7 +186,7 @@
    "source": "LinkedIn",
    "date": "2026-11-09",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -252,7 +197,7 @@
    "source": "LinkedIn",
    "date": "2026-11-08",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -263,19 +208,41 @@
    "source": "LinkedIn",
    "date": "2026-11-08",
    "first_seen": "2026-11-13",
-   "score": 65,
+   "score": 60,
    "fit": "Good fit"
   },
   {
-   "title": "Programme Specialist (Risk & Safeguarding)",
-   "company": "UNICEF Pakistan",
-   "location": "Islamabad",
-   "url": "https://jobs.unicef.org/en-us/job/594352",
-   "source": "UNICEF",
+   "title": "Technical Program Manager",
+   "company": "Pixalate",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/technical-program-manager-at-pixalate-4456392009",
+   "source": "LinkedIn",
    "date": "2026-11-13",
    "first_seen": "2026-11-13",
-   "score": 55,
-   "fit": "Good fit"
+   "score": 40,
+   "fit": "Check"
+  },
+  {
+   "title": "Senior Technical Project Manager",
+   "company": "vFairs",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-technical-project-manager-at-vfairs-4490328591",
+   "source": "LinkedIn",
+   "date": "2026-11-12",
+   "first_seen": "2026-11-13",
+   "score": 40,
+   "fit": "Check"
+  },
+  {
+   "title": "Technical Project Manager",
+   "company": "AI Case Leads",
+   "location": "Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/technical-project-manager-at-ai-case-leads-4489978484",
+   "source": "LinkedIn",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-13",
+   "score": 40,
+   "fit": "Check"
   },
   {
    "title": "CONSTRUCTION SITE ADMINISTRATION MANAGER",
@@ -286,94 +253,6 @@
    "date": "2026-11-08",
    "first_seen": "2026-11-13",
    "score": 40,
-   "fit": "Check"
-  },
-  {
-   "title": "Assistant Manager Human Resources",
-   "company": "Rafah-e-Aam Medical Centre",
-   "location": "Karāchi, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-human-resources-at-rafah-e-aam-medical-centre-4469726260",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 35,
-   "fit": "Check"
-  },
-  {
-   "title": "Senior Manager / Assistant General Manager – Market Operations",
-   "company": "Pakistan Stock Exchange - PSX",
-   "location": "Karāchi, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/senior-manager-assistant-general-manager-%E2%80%93-market-operations-at-pakistan-stock-exchange-psx-4488296127",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 35,
-   "fit": "Check"
-  },
-  {
-   "title": "Assistant Manager Payroll & HR Ops",
-   "company": "Zameen.com",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-payroll-hr-ops-at-zameen-com-4487898038",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 35,
-   "fit": "Check"
-  },
-  {
-   "title": "Assistant Manager Administration",
-   "company": "DP World",
-   "location": "Karāchi, Sindh, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-administration-at-dp-world-4486677608",
-   "source": "LinkedIn",
-   "date": "2026-11-08",
-   "first_seen": "2026-11-13",
-   "score": 10,
-   "fit": "Check"
-  },
-  {
-   "title": "Admin Officer - TJ / 1956051",
-   "company": "Recruit AI",
-   "location": "Islamabad, Islāmābād, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/admin-officer-tj-1956051-at-recruit-ai-4490714062",
-   "source": "LinkedIn",
-   "date": "2026-11-13",
-   "first_seen": "2026-11-13",
-   "score": 0,
-   "fit": "Check"
-  },
-  {
-   "title": "Admin Supervisor",
-   "company": "Cedar Global Solutions",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/admin-supervisor-at-cedar-global-solutions-4489046315",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 0,
-   "fit": "Check"
-  },
-  {
-   "title": "Warehouse Administrator and Team Supervisor - TJ / 1946920",
-   "company": "Recruit AI",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/warehouse-administrator-and-team-supervisor-tj-1946920-at-recruit-ai-4489978333",
-   "source": "LinkedIn",
-   "date": "2026-11-11",
-   "first_seen": "2026-11-13",
-   "score": 0,
-   "fit": "Check"
-  },
-  {
-   "title": "Technical Coordinator - PMO",
-   "company": "ibex",
-   "location": "Lahore, Punjab, Pakistan",
-   "url": "https://pk.linkedin.com/jobs/view/technical-coordinator-pmo-at-ibex-4479337605",
-   "source": "LinkedIn",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-13",
-   "score": 0,
    "fit": "Check"
   }
  ]
