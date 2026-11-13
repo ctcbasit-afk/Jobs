@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basit’s Jobs</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--tx:#1d2420;--mu:#5d6862;--ac:#0f6b4f;--bd:#dcdad2;--chip:#e7efe9}
+@media(prefers-color-scheme:dark){:root{--bg:#131815;--card:#1b221e;--tx:#e8ede9;--mu:#9aa69f;--ac:#4fc79b;--bd:#2c362f;--chip:#22302a}}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.45}
+main{max-width:760px;margin:0 auto;padding:18px 14px 50px}
+h1{font-size:1.5rem;margin:0 0 2px}.sub{color:var(--mu);margin:0 0 14px;font-size:.88rem}
+a.job{display:block;text-decoration:none;color:var(--tx);background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:13px 15px;margin-bottom:10px}
+a.job:hover{border-color:var(--ac)}
+.t{font-weight:600}.o{color:var(--mu);font-size:.9rem;margin-top:2px}
+.row{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}
+.pill{background:var(--chip);border-radius:999px;padding:2px 10px;font-size:.78rem}
+.pill.hi{background:var(--ac);color:#fff}
+.go{margin-left:auto;color:var(--ac);font-weight:600;font-size:.88rem}
+.st{margin-top:18px;color:var(--mu);font-size:.78rem}
+</style></head><body><main>
+<h1>Jobs for Basit</h1><p class="sub" id="sub">Loading…</p><div id="list"></div><div class="st" id="st"></div>
+<script>
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e}
+fetch("jobs.json?v="+Date.now()).then(function(r){return r.json()}).then(function(d){
+  var up=new Date(d.updated);
+  document.getElementById("sub").textContent="Last updated: "+up.toLocaleString()+" · "+d.jobs.length+" jobs";
+  var L=document.getElementById("list"),now=Date.now();
+  d.jobs.forEach(function(j){
+    var a=el("a","job");a.href=j.url;a.target="_blank";a.rel="noopener";
+    a.appendChild(el("div","t",j.title));
+    a.appendChild(el("div","o",[j.company,j.location].filter(Boolean).join(" · ")));
+    var r=el("div","row");
+    r.appendChild(el("span","pill"+(j.fit==="Best fit"?" hi":""),j.fit));
+    if(now-new Date(j.first_seen).getTime()<2.5*864e5)r.appendChild(el("span","pill","New"));
+    r.appendChild(el("span","pill",j.source+(j.date?" · "+j.date:"")));
+    r.appendChild(el("span","go","Apply →"));
+    a.appendChild(r);L.appendChild(a);
+  });
+  var s=Object.keys(d.status||{}).map(function(k){return k+": "+d.status[k]}).join(" | ");
+  document.getElementById("st").textContent="Sources: "+s;
+}).catch(function(){document.getElementById("sub").textContent="jobs.json load nahi hui."});
+</script></main></body></html>
