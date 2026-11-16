@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:07Z",
+ "updated": "2026-11-16T10:20Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
@@ -15,7 +15,7 @@
   "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": 10,
-  "LinkedIn:UNDP Pakistan": 10,
+  "LinkedIn:UNDP Pakistan": 7,
   "LinkedIn:Shell Pakistan": 10,
   "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": 10,
@@ -102,6 +102,61 @@
    "fit": "Good fit"
   },
   {
+   "title": "General Manager HR - Center of Excellence",
+   "company": "Pakistan International Airlines",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/general-manager-hr-center-of-excellence-at-pakistan-international-airlines-4490274719",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Lead",
+   "company": "HR Ways - Hiring Tech Talent",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-lead-at-hr-ways-hiring-tech-talent-4490254647",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager - Governance, Risk & Compliance (GRC)",
+   "company": "iGate Technologies Pakistan",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-governance-risk-compliance-grc-at-igate-technologies-pakistan-4491510068",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Operations Manager",
+   "company": "ibex. Pakistan",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/operations-manager-at-ibex-pakistan-4490275756",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Head of Operations & Business Growth (General Manager)",
+   "company": "Furniture Corner",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-operations-business-growth-general-manager-4489735433",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Adminstration Manager - Chinese Speaker",
    "company": "Medialinks",
    "location": "Lahore, Punjab, Pakistan",
@@ -142,6 +197,17 @@
    "source": "LinkedIn",
    "date": "2026-11-14",
    "first_seen": "2026-11-15",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Business Director, Pakistan",
+   "company": "WPP Media",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/business-director-pakistan-at-wpp-media-4463474305",
+   "source": "LinkedIn",
+   "date": "2026-11-14",
+   "first_seen": "2026-11-16",
    "score": 60,
    "fit": "Good fit"
   },
@@ -518,6 +584,17 @@
    "first_seen": "2026-11-13",
    "score": 60,
    "fit": "Good fit"
+  },
+  {
+   "title": "Assistant Project Manager",
+   "company": "Judibas GOC",
+   "location": "Faisalabad, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-project-manager-at-judibas-goc-4489734317",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-16",
+   "score": 50,
+   "fit": "Check"
   },
   {
    "title": "Assistant Manager Human Resources",
