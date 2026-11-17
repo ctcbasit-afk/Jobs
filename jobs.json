@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:20Z",
+ "updated": "2026-11-17T11:18Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
@@ -9,13 +9,13 @@
   "LinkedIn:HR Officer": 10,
   "LinkedIn:Admin Officer": 10,
   "LinkedIn:Project Coordinator": 10,
-  "LinkedIn:Programme Officer": 10,
+  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
   "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": 10,
-  "LinkedIn:UNDP Pakistan": 7,
+  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNDP Pakistan": 10,
   "LinkedIn:Shell Pakistan": 10,
   "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": 10,
@@ -24,6 +24,17 @@
   "LinkedIn:PARCO": 10
  },
  "jobs": [
+  {
+   "title": "Data Center Project Delivery Manager - Power & Cooling",
+   "company": "JBS Global - Jaffer Business Systems",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/data-center-project-delivery-manager-power-cooling-at-jbs-global-jaffer-business-systems-4489731777",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 80,
+   "fit": "Best fit"
+  },
   {
    "title": "Project Management Support Specialist",
    "company": "UNOPS",
@@ -80,6 +91,17 @@
    "fit": "Best fit"
   },
   {
+   "title": "Project Management Support Officer",
+   "company": "UNOPS",
+   "location": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-management-support-officer-at-unops-4490692211",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
    "title": "Employment opportunity: Post of Project Officer for Private Sector Development and Investments at the EU Delegation to Pakistan in Islamabad, application deadline 22nd Nov 2026",
    "company": "EUBAM Libya",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -99,6 +121,61 @@
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 65,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Manager - Multan",
+   "company": "HR Ways - Hiring Tech Talent",
+   "location": "Multan, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-manager-multan-at-hr-ways-hiring-tech-talent-4491122433",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Telecom Core Network Project Manager",
+   "company": "Beijing Foreign Enterprise Management Consultants Co.,Ltd.",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/telecom-core-network-project-manager-at-beijing-foreign-enterprise-management-consultants-co-ltd-4491101710",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Production Manager - Manufacturing Operations - TJ / 1961685",
+   "company": "Recruit AI",
+   "location": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/production-manager-manufacturing-operations-tj-1961685-at-recruit-ai-4490425949",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Distribution Operations Manager - TJ / 1964485",
+   "company": "Recruit AI",
+   "location": "Quetta, Baluchistan, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/distribution-operations-manager-tj-1964485-at-recruit-ai-4490444044",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Head of Operations",
+   "company": "Lahore University of Management Sciences",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-operations-at-lahore-university-of-management-sciences-4490410826",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -153,6 +230,39 @@
    "source": "LinkedIn",
    "date": "2026-11-16",
    "first_seen": "2026-11-16",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager 1",
+   "company": "Zones IT Solutions",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-1-at-zones-it-solutions-4490920523",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager",
+   "company": "Systems Limited",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-systems-limited-4490295763",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Operations Manager",
+   "company": "HiTeck Medical Instruments",
+   "location": "Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/operations-manager-at-hiteck-medical-instruments-4490917315",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-17",
    "score": 60,
    "fit": "Good fit"
   },
