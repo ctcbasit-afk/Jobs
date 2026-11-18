@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:18Z",
+ "updated": "2026-11-18T10:52Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
@@ -9,15 +9,15 @@
   "LinkedIn:HR Officer": 10,
   "LinkedIn:Admin Officer": 10,
   "LinkedIn:Project Coordinator": 10,
-  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Programme Officer": 10,
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
   "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:WHO Pakistan": 10,
   "LinkedIn:UNDP Pakistan": 10,
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": 10,
+  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
@@ -124,6 +124,50 @@
    "fit": "Good fit"
   },
   {
+   "title": "Human Resources Manager",
+   "company": "Weaves Corporation Limited",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-manager-at-weaves-corporation-limited-4448740122",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Manager and operations manager",
+   "company": "Al-Ghani",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-manager-and-operations-manager-at-al-ghani-4490419282",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Head of IR & Admin",
+   "company": "Midas Safety",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-ir-admin-at-midas-safety-4492004455",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager",
+   "company": "Abacus",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-abacus-4491483425",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Human Resources Manager - Multan",
    "company": "HR Ways - Hiring Tech Talent",
    "location": "Multan, Punjab, Pakistan",
@@ -175,6 +219,61 @@
    "source": "LinkedIn",
    "date": "2026-11-17",
    "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Service Area Operations Manager - TJ / 1964489",
+   "company": "Recruit AI",
+   "location": "Swabi, Khyber Pakhtunkhwa, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/service-area-operations-manager-tj-1964489-at-recruit-ai-4490423866",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Restaurant Operations Manager - TJ / 1964501",
+   "company": "Recruit AI",
+   "location": "Swabi, Khyber Pakhtunkhwa, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/restaurant-operations-manager-tj-1964501-at-recruit-ai-4490431848",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Director of Vendor Program Management, 2 Hour Learning (Remote) - $200,000/year USD",
+   "company": "Alpha School",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-of-vendor-program-management-2-hour-learning-remote-%24200-000-year-usd-at-alpha-school-4491431597",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Business Coordinator - Executive Support Specialist - TJ / 1964609",
+   "company": "Recruit AI",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/business-coordinator-executive-support-specialist-tj-1964609-at-recruit-ai-4491593604",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Fleet Operations & Compliance Specialist",
+   "company": "Bykea",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/fleet-operations-compliance-specialist-at-bykea-4491175819",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-18",
    "score": 60,
    "fit": "Good fit"
   },
