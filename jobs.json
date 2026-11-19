@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T10:52Z",
+ "updated": "2026-11-19T10:53Z",
  "status": {
-  "LinkedIn:HR Manager": 10,
+  "LinkedIn:HR Manager": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
@@ -9,10 +9,10 @@
   "LinkedIn:HR Officer": 10,
   "LinkedIn:Admin Officer": 10,
   "LinkedIn:Project Coordinator": 10,
-  "LinkedIn:Programme Officer": 10,
+  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "LinkedIn:UNICEF Pakistan": 10,
+  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": 10,
   "LinkedIn:UNDP Pakistan": 10,
@@ -20,10 +20,21 @@
   "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
-  "LinkedIn:Attock": 10,
-  "LinkedIn:PARCO": 10
+  "LinkedIn:Attock": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
  },
  "jobs": [
+  {
+   "title": "Supply Chain Operations Manager",
+   "company": "Melbrew",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/supply-chain-operations-manager-at-melbrew-4490890512",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 80,
+   "fit": "Best fit"
+  },
   {
    "title": "Data Center Project Delivery Manager - Power & Cooling",
    "company": "JBS Global - Jaffer Business Systems",
@@ -91,6 +102,17 @@
    "fit": "Best fit"
   },
   {
+   "title": "UN Women: Operations Analyst, Islamabad, Pakistan, NOB, Fixed-Term Appointment",
+   "company": "UN Women",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/un-women-operations-analyst-islamabad-pakistan-nob-fixed-term-appointment-at-un-women-4492414376",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
    "title": "Project Management Support Officer",
    "company": "UNOPS",
    "location": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
@@ -121,6 +143,39 @@
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 65,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager",
+   "company": "Habib Bank AG Zurich",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-habib-bank-ag-zurich-4491378273",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Senior Project Program Manager",
+   "company": "LN Technologies",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-project-program-manager-at-ln-technologies-4491395347",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Specialist",
+   "company": "Ahlan Ventures",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-specialist-4461843140",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -164,6 +219,17 @@
    "source": "LinkedIn",
    "date": "2026-11-18",
    "first_seen": "2026-11-18",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "People Operations Lead",
+   "company": "Motive",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/people-operations-lead-at-motive-4490892237",
+   "source": "LinkedIn",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
    "score": 60,
    "fit": "Good fit"
   },
@@ -278,6 +344,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Project Manager 1",
+   "company": "Zones IT Solutions",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-1-at-zones-it-solutions-4490924509",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-19",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "General Manager HR - Center of Excellence",
    "company": "Pakistan International Airlines",
    "location": "Islāmābād, Pakistan",
@@ -362,6 +439,17 @@
    "source": "LinkedIn",
    "date": "2026-11-16",
    "first_seen": "2026-11-17",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Manager, Materials Operations",
+   "company": "adidas",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/manager-materials-operations-at-adidas-4481453067",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-19",
    "score": 60,
    "fit": "Good fit"
   },
@@ -793,6 +881,17 @@
    "first_seen": "2026-11-13",
    "score": 60,
    "fit": "Good fit"
+  },
+  {
+   "title": "Executive Assistant to Managing Director",
+   "company": "Prosvalley",
+   "location": "Sargodha, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/executive-assistant-to-managing-director-at-prosvalley-4490113321",
+   "source": "LinkedIn",
+   "date": "2026-11-17",
+   "first_seen": "2026-11-19",
+   "score": 50,
+   "fit": "Check"
   },
   {
    "title": "Assistant Project Manager",
