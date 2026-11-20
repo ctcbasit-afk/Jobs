@@ -1,29 +1,40 @@
 {
- "updated": "2026-11-19T10:53Z",
+ "updated": "2026-11-20T10:42Z",
  "status": {
-  "LinkedIn:HR Manager": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
   "LinkedIn:HR Officer": 10,
   "LinkedIn:Admin Officer": 10,
-  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": 10,
-  "LinkedIn:UNDP Pakistan": 10,
+  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNDP Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Pakistan State Oil": 10,
-  "LinkedIn:OGDCL": 10,
-  "LinkedIn:Attock": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
+  "LinkedIn:Wafi Energy": 10,
+  "LinkedIn:Pakistan State Oil": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:OGDCL": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Attock": 10,
+  "LinkedIn:PARCO": 10
  },
  "jobs": [
+  {
+   "title": "Sr. Project Manager - Mobile Application",
+   "company": "HBOX Digital Pakistan",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/sr-project-manager-mobile-application-at-hbox-digital-pakistan-4492436720",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 80,
+   "fit": "Best fit"
+  },
   {
    "title": "Supply Chain Operations Manager",
    "company": "Melbrew",
@@ -113,6 +124,17 @@
    "fit": "Best fit"
   },
   {
+   "title": "UN Women: Operations Analyst, Islamabad, Pakistan, NOB, Fixed-Term Appointment",
+   "company": "International Civil Aviation Organization",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/un-women-operations-analyst-islamabad-pakistan-nob-fixed-term-appointment-at-international-civil-aviation-organization-4492421599",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
    "title": "Project Management Support Officer",
    "company": "UNOPS",
    "location": "Peshawar, Khyber Pakhtunkhwa, Pakistan",
@@ -146,6 +168,39 @@
    "fit": "Good fit"
   },
   {
+   "title": "Data Project Manager (Remote, Full-Time) [HR229] (PK)",
+   "company": "Smart Working",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/data-project-manager-remote-full-time-hr229-pk-at-smart-working-4491903080",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Data Project Manager (Remote, Full-Time) [HR229] (PK)",
+   "company": "Smart Working",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/data-project-manager-remote-full-time-hr229-pk-at-smart-working-4491685842",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Data Project Manager (Remote, Full-Time) [HR229] (PK)",
+   "company": "Smart Working",
+   "location": "Multan, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/data-project-manager-remote-full-time-hr229-pk-at-smart-working-4491692675",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Project Manager",
    "company": "Habib Bank AG Zurich",
    "location": "Karachi Division, Sindh, Pakistan",
@@ -175,6 +230,50 @@
    "source": "LinkedIn",
    "date": "2026-11-19",
    "first_seen": "2026-11-19",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Manager",
+   "company": "Bestax Chartered Accountants",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-manager-at-bestax-chartered-accountants-4492167063",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Senior Operations Manager - Digital Lending",
+   "company": "NOVA Finance",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-operations-manager-digital-lending-at-nova-finance-4492166461",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Deputy Manager Operations",
+   "company": "Hightech Solutions",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/deputy-manager-operations-at-hightech-solutions-4492154362",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager 2",
+   "company": "Zones IT Solutions",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-2-at-zones-it-solutions-4476358165",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
    "score": 60,
    "fit": "Good fit"
   },
