@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:42Z",
+ "updated": "2026-11-21T10:25Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
@@ -7,21 +7,21 @@
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
   "LinkedIn:HR Officer": 10,
-  "LinkedIn:Admin Officer": 10,
-  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Operations Officer": 10,
-  "LinkedIn:HR Associate": 10,
+  "LinkedIn:Admin Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Programme Officer": 10,
+  "LinkedIn:Operations Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:HR Associate": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNDP Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNDP Pakistan": 10,
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": 10,
+  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Pakistan State Oil": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:OGDCL": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
-  "LinkedIn:PARCO": 10
+  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
  },
  "jobs": [
   {
@@ -168,6 +168,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Project Manager",
+   "company": "Lumovy Technology Solutions",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-lumovy-technology-solutions-4493235312",
+   "source": "LinkedIn",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-21",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Data Project Manager (Remote, Full-Time) [HR229] (PK)",
    "company": "Smart Working",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -197,6 +208,50 @@
    "source": "LinkedIn",
    "date": "2026-11-20",
    "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager",
+   "company": "Contegris Technology Solutions",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-contegris-technology-solutions-4492596899",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Clinical Project Manager",
+   "company": "Tigermed",
+   "location": "Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/clinical-project-manager-at-tigermed-4492576098",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Branch Operations Manager - TJ / 1977536",
+   "company": "Recruit AI",
+   "location": "Faisalabad, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/branch-operations-manager-tj-1977536-at-recruit-ai-4492921244",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Head of Admin, Security & IR",
+   "company": "Shan Foods Private Limited",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-admin-security-ir-at-shan-foods-private-limited-4491930381",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
    "score": 60,
    "fit": "Good fit"
   },
