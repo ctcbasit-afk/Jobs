@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:25Z",
+ "updated": "2026-11-22T10:28Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
@@ -7,21 +7,21 @@
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
   "LinkedIn:HR Officer": 10,
-  "LinkedIn:Admin Officer": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Project Coordinator": 10,
-  "LinkedIn:Programme Officer": 10,
-  "LinkedIn:Operations Officer": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:HR Associate": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNICEF Pakistan": 10,
+  "LinkedIn:Admin Officer": 10,
+  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Operations Officer": 10,
+  "LinkedIn:HR Associate": 10,
+  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNDP Pakistan": 10,
+  "LinkedIn:WHO Pakistan": 10,
+  "LinkedIn:UNDP Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:OGDCL": 10,
+  "LinkedIn:OGDCL": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Attock": 10,
-  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
+  "LinkedIn:PARCO": 10
  },
  "jobs": [
   {
@@ -179,6 +179,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Program Manager – Public Health & Immunization",
+   "company": "CERP | Evidence Matters",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/program-manager-%E2%80%93-public-health-immunization-at-cerp-evidence-matters-4492891735",
+   "source": "LinkedIn",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-22",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Data Project Manager (Remote, Full-Time) [HR229] (PK)",
    "company": "Smart Working",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -252,6 +263,17 @@
    "source": "LinkedIn",
    "date": "2026-11-20",
    "first_seen": "2026-11-21",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Senior Manager Stock Base Operations-PO",
+   "company": "Zong 5G",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-manager-stock-base-operations-po-at-zong-5g-4491932071",
+   "source": "LinkedIn",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-22",
    "score": 60,
    "fit": "Good fit"
   },
@@ -1035,6 +1057,17 @@
    "first_seen": "2026-11-13",
    "score": 60,
    "fit": "Good fit"
+  },
+  {
+   "title": "Assistant Manager - Operations & Programs.COE PAK - Central Management.Operations Group-PAKCOE",
+   "company": "Mashreq",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/assistant-manager-operations-programs-coe-pak-central-management-operations-group-pakcoe-at-mashreq-4477697677",
+   "source": "LinkedIn",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-22",
+   "score": 50,
+   "fit": "Check"
   },
   {
    "title": "Executive Assistant to Managing Director",
