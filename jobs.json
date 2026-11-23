@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-22T10:28Z",
+ "updated": "2026-11-23T11:28Z",
  "status": {
   "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
-  "LinkedIn:Programme Manager": 10,
+  "LinkedIn:Programme Manager": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Head of HR": 10,
   "LinkedIn:HR Officer": 10,
-  "LinkedIn:Admin Officer": 10,
+  "LinkedIn:Admin Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Programme Officer": 10,
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": 10,
+  "LinkedIn:UNICEF Pakistan": 10,
+  "LinkedIn:UNOPS Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNDP Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Shell Pakistan": 10,
   "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:OGDCL": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
-  "LinkedIn:PARCO": 10
+  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
  },
  "jobs": [
   {
@@ -165,6 +165,105 @@
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 65,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Manager",
+   "company": "Preventra",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-manager-at-preventra-4492373727",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Lead HR Business Partner - Services",
+   "company": "CureMD",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/lead-hr-business-partner-services-at-curemd-4493740983",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Senior Operations Manager",
+   "company": "Osynix Group",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-operations-manager-at-osynix-group-4492386226",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Manager Strategy & Ops Planning (S&OP)-Logistics",
+   "company": "Daraz",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/manager-strategy-ops-planning-s-op-logistics-at-daraz-4473216643",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Director Business Growth Partner (Technology - HQ & North)",
+   "company": "PTCL.Official",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-business-growth-partner-technology-hq-north-at-ptcl-official-4493628478",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Operations Specialist",
+   "company": "Systems Limited",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-operations-specialist-at-systems-limited-4493623151",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Operations Specialist - TJ / 1986346",
+   "company": "Recruit AI",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-operations-specialist-tj-1986346-at-recruit-ai-4493638110",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Human Resources Director",
+   "company": "IRx Global LLC",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-director-at-irx-global-llc-4492354840",
+   "source": "LinkedIn",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Director",
+   "company": "digital.enterprises",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-director-at-digital-enterprises-4493547247",
+   "source": "LinkedIn",
+   "date": "2026-11-22",
+   "first_seen": "2026-11-23",
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -626,6 +725,17 @@
    "source": "LinkedIn",
    "date": "2026-11-16",
    "first_seen": "2026-11-19",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Manager Administration",
+   "company": "Convo",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/manager-administration-at-convo-4490293662",
+   "source": "LinkedIn",
+   "date": "2026-11-16",
+   "first_seen": "2026-11-23",
    "score": 60,
    "fit": "Good fit"
   },
