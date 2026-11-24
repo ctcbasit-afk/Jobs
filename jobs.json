@@ -1,29 +1,40 @@
 {
- "updated": "2026-11-23T11:28Z",
+ "updated": "2026-11-24T13:03Z",
  "status": {
-  "LinkedIn:HR Manager": 10,
+  "LinkedIn:HR Manager": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
-  "LinkedIn:Programme Manager": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
   "LinkedIn:HR Officer": 10,
-  "LinkedIn:Admin Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Admin Officer": 10,
   "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Programme Officer": 10,
   "LinkedIn:Operations Officer": 10,
-  "LinkedIn:HR Associate": 10,
+  "LinkedIn:HR Associate": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNICEF Pakistan": 10,
-  "LinkedIn:UNOPS Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNDP Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNDP Pakistan": 10,
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": 10,
-  "LinkedIn:Pakistan State Oil": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
-  "LinkedIn:PARCO": "error: HTTP Error 429: Too Many Requests"
+  "LinkedIn:PARCO": 10
  },
  "jobs": [
+  {
+   "title": "Head - HR Business Partnering (DGM Level)",
+   "company": "PARCO - Pak-Arab Refinery Limited",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-hr-business-partnering-dgm-level-at-parco-pak-arab-refinery-limited-4493004148",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "score": 80,
+   "fit": "Best fit"
+  },
   {
    "title": "Sr. Project Manager - Mobile Application",
    "company": "HBOX Digital Pakistan",
@@ -157,6 +168,17 @@
    "fit": "Best fit"
   },
   {
+   "title": "UN Women: Human Resources Assistant, Islamabad, Pakistan, G5, Fixed-Term Appointment",
+   "company": "UN Women",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/un-women-human-resources-assistant-islamabad-pakistan-g5-fixed-term-appointment-at-un-women-4492427050",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-24",
+   "score": 65,
+   "fit": "Good fit"
+  },
+  {
    "title": "Project Management Support Assistant - HTMS",
    "company": "UNOPS",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -165,6 +187,50 @@
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 65,
+   "fit": "Good fit"
+  },
+  {
+   "title": "IELTS Operations Manager",
+   "company": "IDP Education Ltd",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/ielts-operations-manager-at-idp-education-ltd-4494124889",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Program Manager, Strategy Operations",
+   "company": "Motive",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/program-manager-strategy-operations-at-motive-4484662885",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Associate Director",
+   "company": "AWS Student Builder Group QUEST Nawabshah",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/associate-director-at-aws-student-builder-group-quest-nawabshah-4492638772",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "UMT Head of Alumni Relations Lahore",
+   "company": "pakcareers.pk",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/umt-head-of-alumni-relations-lahore-at-pakcareers-pk-4494147013",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -241,6 +307,39 @@
    "source": "LinkedIn",
    "date": "2026-11-23",
    "first_seen": "2026-11-23",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Senior Project Manager - Services",
+   "company": "Motive",
+   "location": "Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/senior-project-manager-services-at-motive-4492636509",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Manager Core Network & Operations",
+   "company": "K-Electric",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/manager-core-network-operations-at-k-electric-4493773647",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Junior Manager Operations - Faisalabad",
+   "company": "Steps Ahead Pakistan",
+   "location": "Faisalabad, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/junior-manager-operations-faisalabad-at-steps-ahead-pakistan-4494028060",
+   "source": "LinkedIn",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
    "score": 60,
    "fit": "Good fit"
   },
@@ -450,6 +549,17 @@
    "source": "LinkedIn",
    "date": "2026-11-19",
    "first_seen": "2026-11-20",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Programme Policy Officer, P4 (Project Manager - Benazir Nashonuma Programme)",
+   "company": "World Food Programme",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/programme-policy-officer-p4-project-manager-benazir-nashonuma-programme-at-world-food-programme-4492473999",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-24",
    "score": 60,
    "fit": "Good fit"
   },
