@@ -1,29 +1,40 @@
 {
- "updated": "2026-11-24T13:03Z",
+ "updated": "2026-11-25T11:52Z",
  "status": {
-  "LinkedIn:HR Manager": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:HR Manager": 10,
   "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
   "LinkedIn:Head of HR": 10,
-  "LinkedIn:HR Officer": 10,
+  "LinkedIn:HR Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Admin Officer": 10,
-  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Programme Officer": 10,
+  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Officer": 10,
-  "LinkedIn:HR Associate": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:HR Associate": 10,
   "LinkedIn:UNICEF Pakistan": 10,
   "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:UNDP Pakistan": 10,
   "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
   "LinkedIn:PARCO": 10
  },
  "jobs": [
+  {
+   "title": "Head of Products and Analytics",
+   "company": "The Citizens Foundation",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/head-of-products-and-analytics-at-the-citizens-foundation-4494606988",
+   "source": "LinkedIn",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "score": 80,
+   "fit": "Best fit"
+  },
   {
    "title": "Head - HR Business Partnering (DGM Level)",
    "company": "PARCO - Pak-Arab Refinery Limited",
@@ -179,6 +190,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "UN Women: Human Resources Assistant, Islamabad, Pakistan, G5, Fixed-Term Appointment",
+   "company": "International Civil Aviation Organization",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/un-women-human-resources-assistant-islamabad-pakistan-g5-fixed-term-appointment-at-international-civil-aviation-organization-4492422476",
+   "source": "LinkedIn",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-25",
+   "score": 65,
+   "fit": "Good fit"
+  },
+  {
    "title": "Project Management Support Assistant - HTMS",
    "company": "UNOPS",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -187,6 +209,17 @@
    "date": "2026-11-12",
    "first_seen": "2026-11-13",
    "score": 65,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Implementation Manager",
+   "company": "LN Technologies",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-implementation-manager-at-ln-technologies-4493091680",
+   "source": "LinkedIn",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "score": 60,
    "fit": "Good fit"
   },
   {
@@ -230,6 +263,61 @@
    "source": "LinkedIn",
    "date": "2026-11-24",
    "first_seen": "2026-11-24",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager",
+   "company": "Descon",
+   "location": "Lahore, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-at-descon-4493050106",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "E-book Project Manager (Night shift Only)",
+   "company": "Innovatix Hub",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/e-book-project-manager-night-shift-only-at-innovatix-hub-4493054277",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Operations Manager",
+   "company": "Holidazzle",
+   "location": "Sukkur, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/operations-manager-at-holidazzle-4493018483",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Sr. Project Manager",
+   "company": "Zones IT Solutions",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/sr-project-manager-at-zones-it-solutions-4393920262",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Director Program Management, 2 Hour Learning (Remote) - $200,000/year USD",
+   "company": "Alpha School",
+   "location": "Rawalpindi, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-program-management-2-hour-learning-remote-%24200-000-year-usd-at-alpha-school-4494729994",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
    "score": 60,
    "fit": "Good fit"
   },
