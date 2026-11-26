@@ -1,29 +1,40 @@
 {
- "updated": "2026-11-25T11:52Z",
+ "updated": "2026-11-26T11:40Z",
  "status": {
   "LinkedIn:HR Manager": 10,
-  "LinkedIn:Project Manager": 10,
+  "LinkedIn:Project Manager": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
-  "LinkedIn:Head of HR": 10,
-  "LinkedIn:HR Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Head of HR": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:HR Officer": 10,
   "LinkedIn:Admin Officer": 10,
-  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "LinkedIn:UNICEF Pakistan": 10,
-  "LinkedIn:UNOPS Pakistan": 10,
-  "LinkedIn:WHO Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNOPS Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:WHO Pakistan": 10,
   "LinkedIn:UNDP Pakistan": 10,
-  "LinkedIn:Shell Pakistan": 10,
-  "LinkedIn:Wafi Energy": 10,
+  "LinkedIn:Shell Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
   "LinkedIn:Attock": 10,
   "LinkedIn:PARCO": 10
  },
  "jobs": [
+  {
+   "title": "Team Lead - Programme Specialist (Open to Internal and External Applicants)",
+   "company": "UNDP Careers",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/team-lead-programme-specialist-open-to-internal-and-external-applicants-at-undp-careers-4495278400",
+   "source": "LinkedIn",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-26",
+   "score": 100,
+   "fit": "Best fit"
+  },
   {
    "title": "Head of Products and Analytics",
    "company": "The Citizens Foundation",
@@ -322,6 +333,17 @@
    "fit": "Good fit"
   },
   {
+   "title": "Director Program Management, 2 Hour Learning (Remote) - $200,000/year USD",
+   "company": "Alpha School",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/director-program-management-2-hour-learning-remote-%24200-000-year-usd-at-alpha-school-4494744403",
+   "source": "LinkedIn",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-26",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Human Resources Manager",
    "company": "Preventra",
    "location": "Karāchi, Sindh, Pakistan",
@@ -472,6 +494,17 @@
    "source": "LinkedIn",
    "date": "2026-11-21",
    "first_seen": "2026-11-22",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Business Director, Pakistan",
+   "company": "WPP Media",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/business-director-pakistan-at-wpp-media-4492316341",
+   "source": "LinkedIn",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-26",
    "score": 60,
    "fit": "Good fit"
   },
