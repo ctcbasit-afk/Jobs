@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-26T11:40Z",
+ "updated": "2026-11-27T11:34Z",
  "status": {
   "LinkedIn:HR Manager": 10,
-  "LinkedIn:Project Manager": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Project Manager": 10,
   "LinkedIn:Operations Manager": 10,
   "LinkedIn:Programme Manager": 10,
-  "LinkedIn:Head of HR": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:HR Officer": 10,
+  "LinkedIn:Head of HR": 10,
+  "LinkedIn:HR Officer": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:Admin Officer": 10,
-  "LinkedIn:Project Coordinator": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Programme Officer": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Project Coordinator": 10,
+  "LinkedIn:Programme Officer": 10,
   "LinkedIn:Operations Officer": 10,
   "LinkedIn:HR Associate": 10,
-  "LinkedIn:UNICEF Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:UNOPS Pakistan": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:UNICEF Pakistan": 10,
+  "LinkedIn:UNOPS Pakistan": 10,
   "LinkedIn:WHO Pakistan": 10,
   "LinkedIn:UNDP Pakistan": 10,
-  "LinkedIn:Shell Pakistan": "error: HTTP Error 429: Too Many Requests",
-  "LinkedIn:Wafi Energy": "error: HTTP Error 429: Too Many Requests",
+  "LinkedIn:Shell Pakistan": 10,
+  "LinkedIn:Wafi Energy": 10,
   "LinkedIn:Pakistan State Oil": 10,
   "LinkedIn:OGDCL": 10,
-  "LinkedIn:Attock": 10,
+  "LinkedIn:Attock": "error: HTTP Error 429: Too Many Requests",
   "LinkedIn:PARCO": 10
  },
  "jobs": [
@@ -146,6 +146,39 @@
    "fit": "Best fit"
   },
   {
+   "title": "Project Management Support Officer",
+   "company": "UNOPS",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-management-support-officer-at-unops-4493876734",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
+   "title": "Project Management Support Associate",
+   "company": "UNOPS",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-management-support-associate-at-unops-4493870922",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
+   "title": "Administration Associate",
+   "company": "UNOPS",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/administration-associate-at-unops-4493885298",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 75,
+   "fit": "Best fit"
+  },
+  {
    "title": "UN Women: Operations Analyst, Islamabad, Pakistan, NOB, Fixed-Term Appointment",
    "company": "UN Women",
    "location": "Islamabad, Islāmābād, Pakistan",
@@ -223,6 +256,61 @@
    "fit": "Good fit"
   },
   {
+   "title": "Human Resources Development Specialist",
+   "company": "Job’s Update",
+   "location": "Faisalabad, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/human-resources-development-specialist-at-job%E2%80%99s-update-4493803201",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Lead, Logistics Operations",
+   "company": "foodpanda",
+   "location": "Karāchi, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/lead-logistics-operations-at-foodpanda-4495068180",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Regional Director",
+   "company": "Fulcrum Pvt. Limited",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/regional-director-at-fulcrum-pvt-limited-4495597629",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "HR Specialist",
+   "company": "Zoomlion",
+   "location": "Karachi Division, Sindh, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/hr-specialist-at-zoomlion-4495590675",
+   "source": "LinkedIn",
+   "date": "2026-11-27",
+   "first_seen": "2026-11-27",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Project Manager 2",
+   "company": "Zones IT Solutions",
+   "location": "Islamabad, Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/project-manager-2-at-zones-it-solutions-4461261075",
+   "source": "LinkedIn",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
    "title": "Project Implementation Manager",
    "company": "LN Technologies",
    "location": "Karachi Division, Sindh, Pakistan",
@@ -230,6 +318,17 @@
    "source": "LinkedIn",
    "date": "2026-11-25",
    "first_seen": "2026-11-25",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Marketplace Operations Specialist",
+   "company": "Edge",
+   "location": "Islāmābād, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/marketplace-operations-specialist-at-edge-4493418919",
+   "source": "LinkedIn",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-27",
    "score": 60,
    "fit": "Good fit"
   },
@@ -505,6 +604,17 @@
    "source": "LinkedIn",
    "date": "2026-11-21",
    "first_seen": "2026-11-26",
+   "score": 60,
+   "fit": "Good fit"
+  },
+  {
+   "title": "Construction Manager – Multistorey Commercial & Residential Projects",
+   "company": "Takmeel Square",
+   "location": "Bahawalpur, Punjab, Pakistan",
+   "url": "https://pk.linkedin.com/jobs/view/construction-manager-%E2%80%93-multistorey-commercial-residential-projects-at-takmeel-square-4492303590",
+   "source": "LinkedIn",
+   "date": "2026-11-21",
+   "first_seen": "2026-11-27",
    "score": 60,
    "fit": "Good fit"
   },
